@@ -2,7 +2,7 @@
 
 A simple, server-side, function-forward framework for building hypermedia apps quickly with HTMX.
 
-Trying to provide framework DX ergonomics without framework bloat.
+Providing framework development ergonomics without framework bloat.
 
 [View Website](https://minifw.calvinbonner.dev)
 
