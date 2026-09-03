@@ -4,6 +4,8 @@ A simple, server-side, function-forward framework for building hypermedia apps q
 
 Trying to provide framework DX ergonomics without framework bloat.
 
+[View Website](https://minifw.calvinbonner.com)
+
 ## No Build Step
 
 Write TypeScript, start Bun, and serve your application. MiniFW runs directly on the server, so pages, partials, styles, and routes stay close to the code that defines them without a separate application build step.
