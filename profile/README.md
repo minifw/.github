@@ -4,7 +4,7 @@ A simple, server-side, function-forward framework for building hypermedia apps q
 
 Trying to provide framework DX ergonomics without framework bloat.
 
-[View Website](https://minifw.calvinbonner.com)
+[View Website](https://minifw.calvinbonner.dev)
 
 ## No Build Step
 
